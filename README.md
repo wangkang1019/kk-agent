@@ -6,7 +6,7 @@
 
 ## 作者
 
-我是王康，人工智能在读博士。在读于重庆邮电大学人工智能学院，于重庆人工智能学院联合培养。
+我是王康，人工智能博士生。在读于重庆邮电大学人工智能学院，于重庆人工智能学院联合培养。
 
 - GitHub: <https://github.com/wangkang1019>
 - 抖音: [点击进入我的抖音](https://www.douyin.com/user/MS4wLjABAAAAxRZTSupsJ4AqmOKjY7JLgcN4gW2jnzbP_CtqEO3v_Xo)
