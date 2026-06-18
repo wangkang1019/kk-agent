@@ -51,7 +51,7 @@ Node.js 20+ is recommended.
 
 ```bash
 git clone https://github.com/wangkang1019/kk-agent.git
-cd KK-Agent
+cd kk-agent
 ```
 
 ### 2. Configure The Model Service
